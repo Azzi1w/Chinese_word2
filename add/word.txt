@@ -1,0 +1,282 @@
+- 2024.09.25 (sozler)
+    - [x]  对 dui right,correct adj
+    - [x]  错 cuo wrong adj
+    - [x]  教学楼 jiaoxuelou ucebny zdaniya
+    - [x]  在 zai v teceiye， v prosses
+    - [x]  这儿 zher zdes，seycas， teper，v etom vremiya
+    - [x]  图书馆 tushuguan bibloteka
+    - [x]  边 bian strona tarap，v tozevremiya
+    - [x]  运动场 yun dong chang  stadion
+    - [x]  体育馆 ti'yu'guan sportivnye zal
+    - [x]  饭馆 fanguan  restoran
+    - [x]  还 hai takze，ktomu，vse isio
+    - [x]  超市 chao'shi supermarket
+    - [x]  题 ti tema, wapros
+    
+    - Taraplar
+        - [x]  上边 shangbian ustunde
+        - [x]  下边 xiabian asagynda
+        - [x]  左边 zuobian cepinde
+        - [x]  右边 youbian sagynda
+        - [x]  北边 beibian
+        - [x]  西边 xibian
+        - [x]  东边 doongbian
+        - [x]  南边 nanbian
+        - [x]  旁边 pangbian gaptalynda
+        - [x]  前边 qianbian onunde
+        - [x]  后边 houbian arkasinda
+        - [x]  里边 libian icinde
+        - [x]  外边 waibian dasinda
+    
+
+- 2024.09.26(sozler)
+    - [x]  去 qu go
+    - [x]  哪儿 nar where gde, kuda
+    - [x]  本 ben （kitaplar icin 个）
+    - [x]  那儿 nar there tam, tuda
+    - [x]  银行 yinhang bank
+    - [x]  知道 zhidao znat
+    - [x]  东边 dongbian east
+    - [x]  跟 gen with 34
+    - [x]  吧 ba
+    - [x]  太 tai too，much too
+    - [x]  了 le
+    - [x]  班 ban class=
+    - [x]  男 nan male
+    - [x]  女 nü female
+    - [x]  书店 shudian
+    - [x]  邮局 youju
+    - [x]  桌子 zhuozi parta
+    - [x]  书包 shubao skolny partefel
+    - [x]  宿舍 sushe opsiaga
+    - [x]  卫生间 weishengjian tualet
+    - [x]  对不起 duibuqi
+    - [x]  没关系 meiguanxi
+    - [x]  商店 shangdian magazin
+    - [x]  地方 difang place，location
+    - [x]  就 jiu exactly immenno kakraz
+    - [x]  喜欢 xi huan like
+
+- Taze soz 1
+    - [x]  谁 shei kim
+    - [x]  吃 chi eat
+    - [x]  要 yao need
+    - [x]  住 zhu zit，life
+    - [x]  可以 keyi mumkun
+    - [x]  可以啊 keyia yes，sure
+    - [x]  知道啊 zhidaoa got it, Anladim, tammam
+    - [x]  还 huan odavat vozvrasat
+    - [x]  昨天 zuotian duyun
+    - [x]  今天 jintian sugun
+    - [x]  明天 mingtian ertir
+    - [x]  月 yue ay
+    - [x]  手机 shouji telefon
+    - [x]  咖啡 kafei
+    - [x]  牛奶 niunai
+    - [x]  可乐 kele kola
+    - [x]  草莓 caomei
+    - [x]  西瓜 🍉 xigua
+    - [x]  橘子 juzi orange
+    - [x]  营业员 yingyeyuan satis gorrevlisi
+    - [x]  种 zhong
+    - [x]  不客气
+    - [x]  香蕉 xiangjiao banan
+    - [x]  近 jin
+    - [x]  苹果 pinguo pingguo
+    - [x]  毛 mao
+    - [x]  芒果 mangguo
+    - [x]  台 tai
+    - [x]  钱 qian
+    - [x]  一共 yigong
+    - [x]  快 kuai
+    - [x]  找 zhao iskat poisk
+    - [x]  真 zhen really
+    - [x]  贵 gui pahaly
+    - [x]  好吃 haochi
+    - [x]  特别 tebie osobenno
+    - [x]  甜美 tianmei sweet
+    - [x]  一定 yiding obezatelny
+    - [x]  祝 zhu zelat，molitsiya
+    - [x]  懂 dong ponimat
+    - [x]  做 zuo
+    - [x]  说 shuo geplmek
+    - [x]  水 shui woda suw
+    - [x]  水果 suiguo frukta
+    - [x]  中午
+    - [x]  下午
+    - [x]  晚上
+    - [x]  小 xiao smal
+    - [x]  什么鬼 shenmegui  kokoue cort
+    - [x]  你没事吧 nimeishiba Are you ok?
+    - [x]  我没事 womeishi iam ok
+    - [x]  我不知道 wobuzhidao
+    - [x]  抱歉 baoqian Sorry（real life）
+    - [x]  牛 niu Awesome（real life）
+    - [x]  啥呀 shaya What Is This （这是什么？real life）
+    - [x]  零 ling 0
+    - [x]  读 du sesli okamak
+    - [x]  念 nian labizli okuma icten okumak
+    - [x]  课文 kewen tekst
+    - [x]  律师 lü'shi advokat
+    - [x]  职员 zhi'yuan ofis iscisi
+    - [x]  大学 daxue univer
+    - [x]  工作 gongzuo is
+    - [x]  医生 yisheng doctor
+    - [x]  想 xiang dumat， dusunmek，vpomnit
+    - [x]  开门 kaimen
+    - [x]  关门 guanmen
+    - [x]  进门 jinmen
+    - [x]  出门 chumen
+    - [ ]  锁门 suomen
+    - [ ]  敲门 knock on the door
+- Taze sozler 2
+    - [x]  群 qun tolpa
+    - [x]  支 zhi sc slov
+    - [x]  生日 shengri dogulan gun
+    - [x]  准备 zhunbei ready
+    - [x]  瓶 ping sc slov
+    - [x]  别的 biede other
+    - [x]  新年 xinnian tazayyl
+    - [x]  礼物 liwu podarka
+    - [x]  张 zhang sc slov
+    - [x]  怎么
+    - [x]  怎么样 zenmeyang
+    
+- Taza sozler 3
+    - [x]  学校 xuexiao skola
+    - [x]  医院 yiyuan balnitsa
+    - [x]  地铁站 ditiezhan metro stansiya
+    - [x]  附近 fujin yakin
+    - [x]  对面 duimian
+    - [x]  每天 meitian every day
+    - [x]  点 dian oclock
+    - [x]  半 ban half
+    - [x]  起床 qichuang get out of bed
+    - [x]  先 xian sperva，v nacala
+    - [x]  刻 ke
+    - [x]  差 cha
+    - [x]  起立 qili kalk
+    - [x]  洗澡 xizao yuwunmak
+    - [x]  然后 ranhou sonra
+    - [x]  教室 jiaoshi klas
+    - [x]  开始 kaishi nacinat
+    - [x]  常常 changchang
+    - [x]  有时候 youshihou inogda
+    - [x]  上网 shangwang sdet v interneta
+    - [x]  现在 xianzai hazir
+    - [x]  事情 shiqing delo，sobitie
+    - [x]  急事 ji shi srocny dela
+    - [x]  关 guan yapmak
+    - [x]  安排 anpai plan
+    - [x]  见面 jianmian vstrecatsa
+    - [x]  电影 dianying film
+    - [x]  买东西 maidongxi bi'r'za'tlar satin almak
+    - [x]  跑步 paobu ylgamak
+    - [x]  游泳 youyong yuzmek
+    - [x]  睡觉 shuijiao yatmak
+    - [x]  打球 daqiu top oynamak
+    - [x]  公园 gongyuan park
+    - [x]  酒吧 jiuba bar
+    - [x]  咱们 zanmen biz hep beraber (dahil etme anamini tasir)
+    - [x]  玩儿 wanr
+    - [x]  以后 yinhou
+
+- Taza soz 4
+    - [x]  山 shan dag
+    - [x]  树 shu agac
+    - [x]  花 hua gul
+    - [x]  风景 fengjing landsap
+    - [x]  非常 feichang
+    - [x]  空气 kongqi air，atmosfera
+    - [x]  新鲜 xinxian fresh
+    - [x]  爬山 pashan tyrmanmak
+    - [x]  呼吸 huxi breathe
+    
+- Taza soz 5
+    - [x]  大家 dajia vse my, kajdy
+    - [x]  累 lei tired
+    - [x]  觉得 juede think，feel
+    - [x]  休息 xiuxi take a breather
+    - [x]  一下 yixia azjyk waht
+    - [x]  小 xiao small
+    - [x]  茶馆 chaguan
+    - [x]  喝 he drink
+    - [x]  一点儿 yidianr
+    - [x]  忙 mang busy
+    - [x]  听说 tingshuo hear of, duydum
+    - [x]  出发 chufa set out, bir yerden gitmek, yola baslamak
+    - [x]  找 zhao look for，try to find
+    - [x]  冷 leng cold
+    - [x]  热 re hot
+    - [x]  饿 e hungry
+    - [x]  渴 ke thirsty, Suwsuzkalmak
+    - [x]  贵 gui pahali
+    - [x]  便宜 pianyi cheap, arzan
+    - [x]  现在 xianzai now
+    - [x]  分 fen minute
+    - [x]  晚 wan late
+    - [x]  公司 gongsi company
+    - [x]  回来 huilai comeback
+    - [x]  晚安 wanan good night [安 bezopasny]
+
+- new word
+    - [x]  介绍 jieshao
+    - [x]  而又 eryou i esho，a takzhe
+    - [x]  住 zhu stay，live
+    - [x]  小区 xiaoqu residential area
+    - [x]  离 li ot (pekin daleko ot guanjo)
+    - [x]  骑 qi ride, surmek
+    - [x]  自行车 zixingche bicycle
+    - [x]  走路 zoulu walk
+    - [x]  小时 xiaoshi hour sagat
+    - [x]  近 jin near yakin
+    
+    200
+    
+- new word 2
+    - [x]  同屋 tongwu roommate
+    - [x]  汽车 qiche motor，car
+    - [x]  从 。。。到。。。 cong。。。dao    from。。。to。。。
+    - [x]  上班 shangban go to work
+    - [x]  周末 zhoumo weekend
+    - [x]  平时 pingshi ordinary times obycno wagt
+    - [x]  食堂 shitang canteen
+    - [x]  。。。的有时候     。。。deyoushehou     。。。when，while
+    - [x]  时候 shihou （the duration of) time
+    - [x]  做饭 zuofan preapare a meal
+    - [x]  菜 cai dish，course
+    - [x]  聊天儿 liaotianr chat
+- new word3
+    - [x]  手机 shouji telefon
+    - [x]  号码 haoma number
+    - [x]  不用 buyong no need
+    - [x]  干 gan do，work，delat，rabota
+    - [x]  画 hua draw，paint
+    - [x]  画儿 drawing
+    - [x]  一般 yiban general, obucny (wǒ yì bān wǎn shàng pǎo bù) ya Я обычно вечером выхожу на пробежку.
+    - [x]  音乐 yinyue music
+    - [x]  一块儿 yikuair together
+    - [x]  收拾 shoushi pit in order, ubrat, toplamak, arasalamak, remont
+    - [x]  房间 fangjian room
+- new word 4
+    - [x]  学期 xueqi term，semester
+    - [x]  兴趣 xingqu interest
+    - [x]  书法 shufa calligraphy
+    - [ ]  太极拳 taijiquan
+    - [x]  感兴趣 ganxingqu interesavat feel
+    - [x]  可是 keshi but，yet，however, no, odnako
+    - [x]  一样 yiyang same，identical, odinakovy, takoy jy
+    - [x]  选 xuan select，choose
+    - [x]  还是 haishi or
+- New word 5
+    - [ ]  最近 zuijin recently，недавно, в последнее время，sugunlerde
+    - [ ]  公共汽车 gonggongqiche bus
+    - [ ]  下车 xiache masyndan dusmek
+
+- Bellik sozler
+    - [ ]  使用 shiyong
+    - [ ]  联系 lianxi praktikovat
+    - [ ]  邻居 linju sosed
+    - [ ]  语言学院 yuyuanxueyuan Language College
+    - [ ]  怎么样 zenmeyang
+    - [ ]  或 huo ili, libo
